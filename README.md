@@ -10,6 +10,8 @@ Where N is the size of the batch to use when performing calculations.
 A size of 1 (the default) will keep all of the input in memory and
 perform the calculations on the population.
 
+Script will end when all of the input data has been processed or `QQ` is entered.
+
 ## Testing
 
 To execute the tests, run `pytest`
